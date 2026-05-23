@@ -1,6 +1,6 @@
 # Classical Emulation of Quantum State Tomography and Bell Inequality Violations
 
-This repository contains MATLAB scripts developed for the analysis of experiments in quantum state tomography and Bell inequality measurements using a pulsed laser optical setup.
+This repository contains MATLAB and PYTHON scripts developed for the analysis of experiments in quantum state tomography and Bell inequality measurements using a pulsed laser optical setup.
 
 The repository consists of three parts:
 1. **Quantum State Tomography (QST):** Reconstructing the density matrix of the emulated states.
